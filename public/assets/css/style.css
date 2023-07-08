@@ -151,14 +151,14 @@
   cursor: pointer;
 }
 
-/* Hide scrollbar for Chrome, Safari, and Opera */
+/* Ocultar barra de desplazamiento para Chrome, Safari y Opera */
 .data-gp::-webkit-scrollbar {
   display: none;
 }
 
-/* Hide scrollbar for IE, Edge, and Firefox */
+/* Ocultar barra de desplazamiento para IE, Edge y Firefox */
 .data-gp {
-  -ms-overflow-style: none; /* IE and Edge */
+  -ms-overflow-style: none; /* IE y Edge */
   scrollbar-width: none; /* Firefox */
 }
 
