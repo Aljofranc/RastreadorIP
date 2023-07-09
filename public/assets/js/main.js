@@ -107,3 +107,11 @@ $(document).ready(function() {
       console.log(error);
     });
 });
+
+
+// Cambiar moro oscuro-claro
+
+const btn_darkMode = document.getElementById('darkMode');
+btn_darkMode.addEventListener('click', ()=>{
+  document.body.classList.toggle('dark')
+})
