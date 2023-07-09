@@ -28,6 +28,7 @@
   height: 50px;
 }
 .bg-img {
+  background: url(/public/assets/img/fondoOscuro.jpg);
   position: absolute;
   top: 0;
   left: 0;
