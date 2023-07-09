@@ -1,0 +1,27 @@
+body.dark{
+    background: #1e1e1e;
+}
+
+body.dark .data-output {
+    background-color: #1e1e1e;
+}
+body.dark .bg-img{
+background: url(/public/assets/img/fondo.webp);
+}
+body.dark #darkMode{
+    background: #202125;
+    
+  }
+
+  body.dark .header {
+    color: #dddcde;
+    
+  }
+  body.dark .mytoast {
+    background-color: #1e1e1e;
+  }
+
+  body.dark  .data {
+  
+    color: #d4d5d9;
+  }
