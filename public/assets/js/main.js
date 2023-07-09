@@ -115,3 +115,12 @@ const btn_darkMode = document.getElementById('darkMode');
 btn_darkMode.addEventListener('click', ()=>{
   document.body.classList.toggle('dark')
 })
+
+// Sube o baja el texto 
+
+$(document).ready(function(){
+  $("#downUp").click(function(){
+    $
+    (".data-output").toggleClasss("collapsed");
+  });
+});
