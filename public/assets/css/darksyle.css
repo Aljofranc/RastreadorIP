@@ -9,7 +9,8 @@ body.dark .bg-img{
 background: url(/public/assets/img/fondo.webp);
 }
 body.dark #darkMode{
-    background: #202125;
+     background: #b6bdca;
+;
     
   }
 
